@@ -1,0 +1,9 @@
+.subBtn{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.subBtn:hover{
+    color: black;
+    background-color: greenyellow;
+}
