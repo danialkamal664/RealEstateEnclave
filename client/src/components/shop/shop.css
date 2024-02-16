@@ -1,0 +1,29 @@
+.shop .text {
+    padding: 30px;
+  }
+  .shop .category span {
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+  }
+
+  .shop .category i {
+    font-size: 20px;
+    color: #bec7d8;
+  }
+  .shop p {
+    color: #72809d;
+  }
+   .ee{
+    padding: 10px;
+    font-size: 15px;
+  }
+  .shop .button {
+    border-top: 1px solid #e4e8f3;
+    padding: 10px 30px;
+  }
+ /* / button{
+    padding: 20px 10px 20px 10px;
+  } */
